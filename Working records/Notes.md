@@ -5,7 +5,7 @@
 
 2. For my SDR work:
 * First I tried with de-confound within each domain after principal components been calculated. (SDR -> Badvars -> PC -> Deconf)
-  * SDR SM dim. 55
+  * SDR SM dim. 47
 * Then I switched to de-confound everything first and then go through SDR. (Deconf -> SDR ...)
   * SDR SM dim. 70
   * This cuased some ill-conditioned variables (e.g. with too many missing values or have too many same values) been taken into analysis.
