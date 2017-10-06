@@ -13,7 +13,10 @@
 * To strictly follow Steve's order of method, I decided to de-confound just after removing ill-conditioned variables within each SDR domain.
 (SDR -> Badvars -> Deconf -> PC)
   * SDR SM dim. 58
-
+  
+3. Factor rotation:
+* We rotate structral correlation (canonical loadings), instead of rotating canoincal variables and then correlate with the observable variables.
+ ** rotate canoincal weights are not recommended
 
 ### Questions
 1. How to do factor rotation in CCA??
