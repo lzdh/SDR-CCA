@@ -22,3 +22,5 @@
 1. How to do factor rotation in CCA??
 * Do we rotate weights in SM and BM seperately? (using different tranformation matrices)
 * if we are only interested in explaining the SM weights, can we just rotate the SM weights and compare with the unrotated BM weights? Or we rotate BM with the same transformation matrix used in SM?
+
+2. It doesnt make sense to rotate canonical variables?
