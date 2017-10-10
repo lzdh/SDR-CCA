@@ -18,9 +18,14 @@
 * We rotate structral correlation (canonical loadings), instead of rotating canoincal variables and then correlate with the observable variables.
   * rotate canoincal weights are not recommended
 
-
-4. Visualisation:
+### Results
+1. Visualisation:
 * Showing 3d graph, use 'PCA_CCA' in workspace
+
+2. 2-layer CV on all SDR variables 213: gives 51 dim.
+* Error curve:  
+![alt text](https://github.com/lzdh/SDR-CCA/blob/master/error_allSDRvars.jpg)
+
 
 
 ### Questions
