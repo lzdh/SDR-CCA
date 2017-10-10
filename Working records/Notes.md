@@ -34,3 +34,5 @@
 * if we are only interested in explaining the SM weights, can we just rotate the SM weights and compare with the unrotated BM weights? Or we rotate BM with the same transformation matrix used in SM?
 
 2. It doesnt make sense to rotate canonical variables?
+
+3. Buster stopped working... after I tried to add public key pairs with go password-less and it also failed...
