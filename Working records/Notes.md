@@ -1,4 +1,9 @@
-# Things to discuss in the meeting
+# NOTES & Things to discuss in the meeting
+
+## 13th Oct
+1. SDR on unflipped data gives 60dim. 
+
+
 
 ## Week b/w 02/10/2017
 1. In Steve's work, for SM, he first of all removed all ill-conditioned variables, then de-confound and calculate left eigenvectors.
