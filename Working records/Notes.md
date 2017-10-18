@@ -1,8 +1,10 @@
 # NOTES & Things to discuss in the meeting
 
-## 13th Oct
+## Week b/w 13th Oct
 1. SDR on unflipped data gives 60dim. 
-
+* With sub-dims: 10	8	1	2	14	3	3	1	7	4	3	1	3
+* Compared with 58dim. flipped dataset: 10 8 1 2 14 3 3 1 7 2 3 1 3
+* 2 dims difference in physical health....
 
 
 ## Week b/w 02/10/2017
