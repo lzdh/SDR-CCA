@@ -6,6 +6,8 @@
 * Compared with 58dim. flipped dataset: 10 8 1 2 14 3 3 1 7 2 3 1 3
 * 2 dims difference in physical health....
 
+2. SDR on all unflipped 213 SDR variables gives 51 dim. as well.  (see error curve down the page)
+
 
 ## Week b/w 02/10/2017
 1. In Steve's work, for SM, he first of all removed all ill-conditioned variables, then de-confound and calculate left eigenvectors.
