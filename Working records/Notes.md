@@ -1,5 +1,9 @@
 # NOTES & Things to discuss in the meeting
 
+
+## Week b/w 30/10
+1. after sign-flipping some varaible like THC originally had strong correltion, the correlation gone weak
+
 ## Week b/w 13th Oct
 1. SDR on unflipped data gives 60dim. 
 * With sub-dims: 10	8	1	2	14	3	3	1	7	4	3	1	3
