@@ -1,5 +1,12 @@
 # NOTES & Things to discuss in the meeting
 
+## 12/11
+1. How do we treat outliers?
+* Exclude variables with outliers
+* Make the outliers into 0 but keep the variable.
+
+2. If we exclude all variables with outliers, total number of SM variable gone down to 197 from 213. SDR SM gone down to 56 from 60 with alcohol 12 to 10, cognition 14 to 13, sensory 3 to 2 
+
 
 ## Week b/w 30/10
 1. after sign-flipping some varaible like THC originally had strong correltion, the correlation gone weak
