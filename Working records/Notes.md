@@ -7,7 +7,7 @@ BM visualisation:
  * In *nets_groupmean*, the way of converting t-score to z-score needs explaination!
  * I replace all 'inf' with the largest non-inf values, '-inf' with the smallest non-inf value. 
 
-
+2. SHOW RESULTS!!!! (yay!! finally got the normal looking graphs!!)
 
 ## 12/11
 1. How do we treat outliers?
