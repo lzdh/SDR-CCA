@@ -5,7 +5,7 @@
 BM visualisation:
 1. For group Znet (full correlation), I get 'inf' for loads of values. 
  * In *nets_groupmean*, the way of converting t-score to z-score needs explaination!
- * I replace all 'inf' with 20, '-inf' with -20. 
+ * I replace all 'inf' with the largest non-inf values, '-inf' with the smallest non-inf value. 
 
 
 
