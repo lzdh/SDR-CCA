@@ -8,6 +8,7 @@ BM visualisation:
  * I replace all 'inf' with the largest non-inf values, '-inf' with the smallest non-inf value. 
 
 2. SHOW RESULTS!!!! (yay!! finally got the normal looking graphs!!)
+ * Both plots and interactive viewer!!!
 
 ## 12/11
 1. How do we treat outliers?
