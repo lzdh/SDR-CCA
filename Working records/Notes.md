@@ -1,5 +1,14 @@
 # NOTES & Things to discuss in the meeting
 
+
+## 05/12
+BM visualisation:
+1. For group Znet (full correlation), I get 'inf' for loads of values. 
+ * In *nets_groupmean*, the way of converting t-score to z-score needs explaination!
+ * I replace all 'inf' with 20, '-inf' with -20. 
+
+
+
 ## 12/11
 1. How do we treat outliers?
 * Exclude variables with outliers
